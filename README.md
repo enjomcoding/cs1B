@@ -1,2 +1,2 @@
 # cs1B
-my projects when i was in 1st year
+practice activities when i was 1st year
